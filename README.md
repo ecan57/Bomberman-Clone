@@ -1,6 +1,10 @@
 # Bomberman Clone
-![Bomberman1](https://github.com/ecan57/Bomberman-Clone/assets/105751954/c1366413-3073-4777-b450-55841cc7fe9d)
-![Bomberman2](https://github.com/ecan57/Bomberman-Clone/assets/105751954/e23bb6ce-229c-47c4-92ee-067968e33eb4)
-![Bomberman3](https://github.com/ecan57/Bomberman-Clone/assets/105751954/a4886d61-17b6-4bc4-8d9f-a8bf9d4aa750)
-![Bomberman4](https://github.com/ecan57/Bomberman-Clone/assets/105751954/1edf5b92-352d-47ab-83da-559ae08ac08b)
-![Bomberman5](https://github.com/ecan57/Bomberman-Clone/assets/105751954/0371b03b-9e7e-4ce5-ac0d-3d5f57b06572)
+
+<b>Opening</b>
+![Bomberman4](https://github.com/ecan57/Bomberman-Clone/assets/105751954/d0e56ade-e41d-4398-a33c-d9b3100ed250)
+<b>Menu</b>
+![Bomberman0](https://github.com/ecan57/Bomberman-Clone/assets/105751954/7ed2864d-d67d-4d16-97a8-a17100117387)
+<b>Image Levels</b>
+![Bomberman1](https://github.com/ecan57/Bomberman-Clone/assets/105751954/d969231b-0b6f-4d69-8fd6-ba36ff7f09ec)
+![Bomberman2](https://github.com/ecan57/Bomberman-Clone/assets/105751954/614b4b98-b774-4104-8440-8942abd8a150)
+![Bomberman3](https://github.com/ecan57/Bomberman-Clone/assets/105751954/aacc88b9-579c-4458-9907-a78dc737ac6c)
